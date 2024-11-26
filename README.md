@@ -9,3 +9,4 @@
 * **SCSS**
 * **React Content Loader (Скелетоны)**
 * **React Pagination**
+* **Для запросов на бэк использовал mockAPI**
